@@ -1,7 +1,12 @@
 # work-day-scheduler
 
+### Description
+This app allows you to adjust and save youre schedule to local storage.
 
+### Technology
+Constructed using html, css, Js and bootstrap.
 
+###### Andrew Ahler
 
 
 
